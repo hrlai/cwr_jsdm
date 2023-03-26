@@ -1,6 +1,7 @@
 # Large data
 data/GBIF/CWR/0284616-220831081235567.csv
 data/WorldClim
+data/soilgrids
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
