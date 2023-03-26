@@ -1,0 +1,11 @@
+Joint species distribution model on the presence-only data of crop wild
+relatives
+================
+
+Code directory:
+
+- `clean_CWR.R`: R script to clean the coordinate data from GBIF (in
+  progress)
+- `bioclim_soilgrids.R`: R script to retrieve climatic and soil
+  predictors
+- `phylo_CWR.R`: R script to retrieve phylogeny of the wild relatives
