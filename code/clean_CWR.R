@@ -4,6 +4,8 @@ library(rgbif)
 library(countrycode)
 library(CoordinateCleaner)
 library(sp)
+library(terra)
+library(geodata)
 
 # crop wild relative inventory from GRIN
 # https://npgsweb.ars-grin.gov/gringlobal/taxon/taxonomysearchcwr
@@ -57,3 +59,29 @@ ggplot() +
                    colour = .summary), 
                size = 0.5)+
     theme_bw()
+
+# output clean data
+# we will trust clean_coordinates for now and use only the unflagged data points
+cwr_clean <- 
+  flags %>% 
+  filter(.summary == TRUE) %>% 
+  select(species, countryCode, starts_with("decimal")) %>% 
+  as.data.frame()
+# convert to spatial points
+cwr_points <- 
+  vect(cwr_clean, 
+       geom = c("decimallongitude", "decimallatitude"),
+       crs = "+proj=longlat +datum=WGS84 +no_defs +ellps=WGS84 +towgs84=0,0,0")
+# read the bioclim raster to use as reference grid
+bioclim <- 
+  worldclim_global(
+    var = "bio", 
+    res = 10, 
+    path = "data/WorldClim")
+# rasterise the point occurrences to raster counts
+point_counts <- 
+  rasterize(cwr_points, bioclim,
+            field = "species",  
+            by = "species",
+            fun = "length",
+            background = 0)
