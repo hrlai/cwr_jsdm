@@ -85,3 +85,12 @@ point_counts <-
             by = "species",
             fun = "length",
             background = 0)
+# obtain adjacency list
+W <- adjacent(point_counts, 
+              cells = 1:prod(dim(point_counts)[1:2]), 
+              directions = "rook",  # or queen?
+              pairs = TRUE)
+# or turn the adjacency (edge) list into a sparse matrix
+# NB: not 100% sure if this is correct
+ww <- igraph::graph_from_edgelist(W)
+ww <- igraph::get.adjacency(ww)
