@@ -1,0 +1,273 @@
+ï»¿Id,Family,FamilyAuthor,Genus,Specie,SpecieAuthor,Subspecie,SubspecieAuthor,Variety,VarietyAuthor,CommonName,ScientificName,ConceptType,ConceptLevel,MainTaxon,
+4185,Poaceae,Barnhart  nom. cons.,Triticum,aestivum,L.,tibeticum,J.Z.Shao,,,,Triticum aestivum subsp. tibeticum,Gene Pool,Primary,Triticum aestivum
+1488,Poaceae,Barnhart  nom. cons.,Triticum,monococcum,L.,,,,,,Triticum monococcum,Gene Pool,Primary,Triticum aestivum
+579,Poaceae,Barnhart  nom. cons.,Triticum,monococcum,L.,aegilopoides,(Link) Thell.,,,wild einkorn wheat,Triticum monococcum subsp. aegilopoides,Gene Pool,Primary,Triticum aestivum
+4088,Poaceae,Barnhart  nom. cons.,Triticum,timopheevii,(Zhuk.) Zhuk.,,,,,,Triticum timopheevii,Gene Pool,Primary,Triticum aestivum
+581,Poaceae,Barnhart  nom. cons.,Triticum,timopheevii,(Zhuk.) Zhuk.,armeniacum,(Jakubz.) Slageren,,,,Triticum timopheevii subsp. armeniacum,Gene Pool,Primary,Triticum aestivum
+584,Poaceae,Barnhart  nom. cons.,Triticum,turgidum,L.,dicoccoides,(Korn. ex Asch. & Graebn.) Thell.,,,wild emmer wheat,Triticum turgidum subsp. dicoccoides,Gene Pool,Primary,Triticum aestivum
+5065,Poaceae,,Triticum,turgidum,L.,paleocolchicum,Á. Löve & D. Löve,,,,Triticum turgidum subsp. paleocolchicum,Gene Pool,Primary,Triticum aestivum
+591,Poaceae,Barnhart  nom. cons.,Triticum,urartu,Tumanian ex Gandilyan,,,,,red wild einkorn,Triticum urartu,Gene Pool,Primary,Triticum aestivum
+593,Poaceae,Barnhart  nom. cons.,Aegilops,bicornis,(Forssk.) Jaub. & Spach,,,,,,Aegilops bicornis,Gene Pool,Secondary,Triticum aestivum
+594,Poaceae,Barnhart  nom. cons.,Aegilops,bicornis,(Forssk.) Jaub. & Spach,,,anathera,Eig,,Aegilops bicornis var. anathera,Gene Pool,Secondary,Triticum aestivum
+595,Poaceae,Barnhart  nom. cons.,Aegilops,bicornis,(Forssk.) Jaub. & Spach,,,bicornis,(Forssk.) Jaub. & Spach,,Aegilops bicornis var. bicornis,Gene Pool,Secondary,Triticum aestivum
+596,Poaceae,Barnhart  nom. cons.,Aegilops,biuncialis,Vis.,,,,,,Aegilops biuncialis,Gene Pool,Secondary,Triticum aestivum
+597,Poaceae,Barnhart  nom. cons.,Aegilops,columnaris,Zhuk.,,,,,,Aegilops columnaris,Gene Pool,Secondary,Triticum aestivum
+598,Poaceae,Barnhart  nom. cons.,Aegilops,comosa,Sm.,,,,,,Aegilops comosa,Gene Pool,Secondary,Triticum aestivum
+599,Poaceae,Barnhart  nom. cons.,Aegilops,comosa,Sm.,,,comosa,,,Aegilops comosa var. comosa,Gene Pool,Secondary,Triticum aestivum
+600,Poaceae,Barnhart  nom. cons.,Aegilops,comosa,Sm.,,,subventricosa,Boiss.,,Aegilops comosa var. subventricosa,Gene Pool,Secondary,Triticum aestivum
+601,Poaceae,Barnhart  nom. cons.,Aegilops,crassa,Boiss.,,,,,Persian goat grass,Aegilops crassa,Gene Pool,Secondary,Triticum aestivum
+602,Poaceae,Barnhart  nom. cons.,Aegilops,cylindrica,Host,,,,,jointed goat grass,Aegilops cylindrica,Gene Pool,Secondary,Triticum aestivum
+603,Poaceae,Barnhart  nom. cons.,Aegilops,geniculata,Roth,,,,,ovate goat grass,Aegilops geniculata,Gene Pool,Secondary,Triticum aestivum
+604,Poaceae,Barnhart  nom. cons.,Aegilops,juvenalis,(Thell.) Eig,,,,,,Aegilops juvenalis,Gene Pool,Secondary,Triticum aestivum
+605,Poaceae,Barnhart  nom. cons.,Aegilops,kotschyi,Boiss.,,,,,,Aegilops kotschyi,Gene Pool,Secondary,Triticum aestivum
+606,Poaceae,Barnhart  nom. cons.,Aegilops,longissima,Schweinf. & Muschl.,,,,,,Aegilops longissima,Gene Pool,Secondary,Triticum aestivum
+607,Poaceae,Barnhart  nom. cons.,Aegilops,markgrafii,(Greuter) K. Hammer,,,,,,Aegilops markgrafii,Gene Pool,Secondary,Triticum aestivum
+608,Poaceae,Barnhart  nom. cons.,Aegilops,neglecta,Req. ex Bertol.,,,,,three-awn goat grass,Aegilops neglecta,Gene Pool,Secondary,Triticum aestivum
+609,Poaceae,Barnhart  nom. cons.,Aegilops,peregrina,(Hack.) Maire & Weiller,,,,,,Aegilops peregrina,Gene Pool,Secondary,Triticum aestivum
+610,Poaceae,Barnhart  nom. cons.,Aegilops,peregrina,(Hack.) Maire & Weiller,,,brachyathera,(Boiss.) Maire & Weiller,,Aegilops peregrina var. brachyathera,Gene Pool,Secondary,Triticum aestivum
+611,Poaceae,Barnhart  nom. cons.,Aegilops,peregrina,(Hack.) Maire & Weiller,,,peregrina,(Hack.) Maire & Weiller,,Aegilops peregrina var. peregrina,Gene Pool,Secondary,Triticum aestivum
+612,Poaceae,Barnhart  nom. cons.,Aegilops,searsii,Feldman & Kislev ex K. Hammer,,,,,,Aegilops searsii,Gene Pool,Secondary,Triticum aestivum
+613,Poaceae,Barnhart  nom. cons.,Aegilops,sharonensis,Eig,,,,,,Aegilops sharonensis,Gene Pool,Secondary,Triticum aestivum
+614,Poaceae,Barnhart  nom. cons.,Aegilops,speltoides,Tausch,,,,,,Aegilops speltoides,Gene Pool,Secondary,Triticum aestivum
+615,Poaceae,Barnhart  nom. cons.,Aegilops,speltoides,Tausch,,,ligustica,(Savign.) Fiori,,Aegilops speltoides var. ligustica,Gene Pool,Secondary,Triticum aestivum
+616,Poaceae,Barnhart  nom. cons.,Aegilops,speltoides,Tausch,,,speltoides,Tausch,goat grass,Aegilops speltoides var. speltoides,Gene Pool,Secondary,Triticum aestivum
+617,Poaceae,Barnhart  nom. cons.,Aegilops,tauschii,Coss.,,,,,Tausch's goat grass,Aegilops tauschii,Gene Pool,Secondary,Triticum aestivum
+618,Poaceae,Barnhart  nom. cons.,Aegilops,triuncialis,L.,,,,,barb goat grass,Aegilops triuncialis,Gene Pool,Secondary,Triticum aestivum
+619,Poaceae,Barnhart  nom. cons.,Aegilops,triuncialis,L.,,,persica,(Boiss.) Eig,,Aegilops triuncialis var. persica,Gene Pool,Secondary,Triticum aestivum
+620,Poaceae,Barnhart  nom. cons.,Aegilops,triuncialis,L.,,,triuncialis,L.,barb goat grass,Aegilops triuncialis var. triuncialis,Gene Pool,Secondary,Triticum aestivum
+621,Poaceae,Barnhart  nom. cons.,Aegilops,umbellulata,Zhuk.,,,,,,Aegilops umbellulata,Gene Pool,Secondary,Triticum aestivum
+622,Poaceae,Barnhart  nom. cons.,Aegilops,uniaristata,Vis.,,,,,,Aegilops uniaristata,Gene Pool,Secondary,Triticum aestivum
+623,Poaceae,Barnhart  nom. cons.,Aegilops,vavilovii,(Zhuk.) Chennav.,,,,,,Aegilops vavilovii,Gene Pool,Secondary,Triticum aestivum
+624,Poaceae,Barnhart  nom. cons.,Aegilops,ventricosa,Tausch,,,,,swollen goat grass,Aegilops ventricosa,Gene Pool,Secondary,Triticum aestivum
+626,Poaceae,Barnhart  nom. cons.,Amblyopyrum,muticum,(Boiss.) Eig,,,loliaceum,(Jaub. & Spach) Eig,,Amblyopyrum muticum var. loliaceum,Gene Pool,Secondary,Triticum aestivum
+627,Poaceae,Barnhart  nom. cons.,Amblyopyrum,muticum,(Boiss.) Eig,,,muticum,(Boiss.) Eig,,Amblyopyrum muticum var. muticum,Gene Pool,Secondary,Triticum aestivum
+2911,Poaceae,Barnhart  nom. cons.,Agropyron,cimmericum,Nevski,,,,,,Agropyron cimmericum,Gene Pool,Tertiary,Triticum aestivum
+2909,Poaceae,Barnhart  nom. cons.,Agropyron,cristatum,(L.) Beauv.,,,,,Crested wheatgrass,Agropyron cristatum,Gene Pool,Tertiary,Triticum aestivum
+6470,Poaceae,,Agropyron,cristatum,(L.) Gaertn.,brandzae,(Pantu & Solacolu) Melderis,,,,Agropyron cristatum subsp. brandzae,Gene Pool,Tertiary,Triticum aestivum
+6471,Poaceae,,Agropyron,cristatum,(L.) Gaertn.,pectinatum,(M. Bieb.) Tzvelev,,,,Agropyron cristatum subsp. pectinatum,Gene Pool,Tertiary,Triticum aestivum
+6539,Poaceae,,Agropyron,cristatum,(L.) Gaertn.,pectinatum,(M. Bieb.) Tzvelev,imbricatum,(Roem. & Schult.) Beck,,Agropyron cristatum subsp. pectinatum var. imbricatum,Gene Pool,Tertiary,Triticum aestivum
+6529,Poaceae,,Agropyron,cristatum,(L.),pectinatum,(M. Bieb.) Tzvelev,pectinatum,(M. Bieb.) Tzvelev,,Agropyron cristatum subsp. pectinatum var. pectinatum,Gene Pool,Tertiary,Triticum aestivum
+6472,Poaceae,,Agropyron,cristatum,(L.) Gaertn.,sabulosum,Lavrenko,,,,Agropyron cristatum subsp. sabulosum,Gene Pool,Tertiary,Triticum aestivum
+6473,Poaceae,,Agropyron,cristatum,(L.) Gaertn.,sclerophyllum,Novopokr. ex Tzvelev,,,,Agropyron cristatum subsp. sclerophyllum,Gene Pool,Tertiary,Triticum aestivum
+6474,Poaceae,,Agropyron,cristatum,(L.) Gaertn.,tarbagataicum,(N. Plotn.) Tzvelev,,,,Agropyron cristatum subsp. tarbagataicum,Gene Pool,Tertiary,Triticum aestivum
+2912,Poaceae,Barnhart  nom. cons.,Agropyron,dasyanthum,Ledeb.,,,,,,Agropyron dasyanthum,Gene Pool,Tertiary,Triticum aestivum
+2913,Poaceae,Barnhart  nom. cons.,Agropyron,desertorum,(Fischer ex Link) Schultes,,,,,,Agropyron desertorum,Gene Pool,Tertiary,Triticum aestivum
+2914,Poaceae,Barnhart  nom. cons.,Agropyron,fragile,(Roth) Candargy,,,,,,Agropyron fragile,Gene Pool,Tertiary,Triticum aestivum
+2916,Poaceae,Barnhart  nom. cons.,Agropyron,michnoi,Roshevitz,,,,,,Agropyron michnoi,Gene Pool,Tertiary,Triticum aestivum
+2917,Poaceae,Barnhart  nom. cons.,Agropyron,mongolicum,Keng,,,,,,Agropyron mongolicum,Gene Pool,Tertiary,Triticum aestivum
+4645,Poaceae,Barnhart  nom. cons.,Agropyron,nathaliae,Sipliv.,,,,,,Agropyron nathaliae,Gene Pool,Tertiary,Triticum aestivum
+2918,Poaceae,Barnhart  nom. cons.,Agropyron,pumilum,Candargy,,,,,,Agropyron pumilum,Gene Pool,Tertiary,Triticum aestivum
+2919,Poaceae,Barnhart  nom. cons.,Agropyron,tanaiticum,Nevski,,,,,,Agropyron tanaiticum,Gene Pool,Tertiary,Triticum aestivum
+4647,Poaceae,Barnhart  nom. cons.,Elymus,abolinii,(Drobow) Tzvelev,,,,,,Elymus abolinii,Gene Pool,Tertiary,Triticum aestivum
+4648,Poaceae,Barnhart  nom. cons.,Elymus,alashanicus,(Keng) S. L. Chen,,,,,,Elymus alashanicus,Gene Pool,Tertiary,Triticum aestivum
+4649,Poaceae,Barnhart  nom. cons.,Elymus,alaskanus,(Scribn. & Merr.) Á. Löve,,,,,,Elymus alaskanus,Gene Pool,Tertiary,Triticum aestivum
+4650,Poaceae,Barnhart  nom. cons.,Elymus,albicans,(Scribn. & J. G. Sm.) Á. Löve,,,,,,Elymus albicans,Gene Pool,Tertiary,Triticum aestivum
+4651,Poaceae,Barnhart  nom. cons.,Elymus,alienus,(Keng) S. L. Chen,,,,,,Elymus alienus,Gene Pool,Tertiary,Triticum aestivum
+4652,Poaceae,Barnhart  nom. cons.,Elymus,alopex,B. Salomon,,,,,,Elymus alopex,Gene Pool,Tertiary,Triticum aestivum
+4653,Poaceae,Barnhart  nom. cons.,Elymus,angulatus,J. Presl,,,,,,Elymus angulatus,Gene Pool,Tertiary,Triticum aestivum
+4654,Poaceae,Barnhart  nom. cons.,Elymus,antiquus,(Nevski) Tzvelev,,,,,,Elymus antiquus,Gene Pool,Tertiary,Triticum aestivum
+4655,Poaceae,Barnhart  nom. cons.,Elymus,aristiglumis,(Keng & S. L. Chen) S. L. Chen,,,,,,Elymus aristiglumis,Gene Pool,Tertiary,Triticum aestivum
+4656,Poaceae,Barnhart  nom. cons.,Elymus,arizonicus,(Scribn. & J. G. Sm.) Gould,,,,,,Elymus arizonicus,Gene Pool,Tertiary,Triticum aestivum
+4804,Poaceae,Barnhart  nom. cons.,Elymus,atratus,(Nevski) Hand.-Mazz.,,,,,,Elymus atratus,Gene Pool,Tertiary,Triticum aestivum
+4658,Poaceae,Barnhart  nom. cons.,Elymus,bakeri,(E. E. Nelson) Á. Löve,,,,,,Elymus bakeri,Gene Pool,Tertiary,Triticum aestivum
+4659,Poaceae,Barnhart  nom. cons.,Elymus,barbicallus,(Ohwi) S. L. Chen,,,,,,Elymus barbicallus,Gene Pool,Tertiary,Triticum aestivum
+4660,Poaceae,Barnhart  nom. cons.,Elymus,barystachyus,L. B. Cai,,,,,,Elymus barystachyus,Gene Pool,Tertiary,Triticum aestivum
+4661,Poaceae,Barnhart  nom. cons.,Elymus,borianus,(Melderis) Cope,,,,,,Elymus borianus,Gene Pool,Tertiary,Triticum aestivum
+4662,Poaceae,Barnhart  nom. cons.,Elymus,breviaristatus,Keng ex Keng f.,,,,,,Elymus breviaristatus,Gene Pool,Tertiary,Triticum aestivum
+4663,Poaceae,Barnhart  nom. cons.,Elymus,brevipes,(Keng & S. L. Chen) S. L. Chen,,,,,,Elymus brevipes,Gene Pool,Tertiary,Triticum aestivum
+4664,Poaceae,Barnhart  nom. cons.,Elymus,burchan-buddae,(Nevski) Tzvelev,,,,,,Elymus burchan-buddae,Gene Pool,Tertiary,Triticum aestivum
+4665,Poaceae,Barnhart  nom. cons.,Elymus,bushianus,(Roshev.) Tzvelev,,,,,,Elymus bushianus,Gene Pool,Tertiary,Triticum aestivum
+4666,Poaceae,Barnhart  nom. cons.,Elymus,caesifolius,Á. Löve,,,,,,Elymus caesifolius,Gene Pool,Tertiary,Triticum aestivum
+4667,Poaceae,Barnhart  nom. cons.,Elymus,canadensis,L.,,,,,,Elymus canadensis,Gene Pool,Tertiary,Triticum aestivum
+4668,Poaceae,Barnhart  nom. cons.,Elymus,canaliculatus,(Nevski) Tzvelev,,,,,,Elymus canaliculatus,Gene Pool,Tertiary,Triticum aestivum
+4669,Poaceae,Barnhart  nom. cons.,Elymus,caninus,(L.) L.,,,,,,Elymus caninus,Gene Pool,Tertiary,Triticum aestivum
+4670,Poaceae,Barnhart  nom. cons.,Elymus,caucasicus,(K. Koch) Tzvelev,,,,,,Elymus caucasicus,Gene Pool,Tertiary,Triticum aestivum
+4671,Poaceae,Barnhart  nom. cons.,Elymus,ciliaris,(Trin.) Tzvelev,,,,,,Elymus ciliaris,Gene Pool,Tertiary,Triticum aestivum
+6475,Poaceae,,Elymus,ciliaris,(Trin.) Tzvelev,amurensis,(Drobow) Tzvelev,,,,Elymus ciliaris subsp. amurensis,Gene Pool,Tertiary,Triticum aestivum
+6476,Poaceae,,Elymus,ciliaris,(Trin.) Tzvelev,ciliaris,,,,,Elymus ciliaris subsp. ciliaris,Gene Pool,Tertiary,Triticum aestivum
+6477,Poaceae,,Elymus,ciliaris,(Trin.) Tzvelev,japonicus,Á. Löve,,,,Elymus ciliaris subsp. japonicus,Gene Pool,Tertiary,Triticum aestivum
+4672,Poaceae,Barnhart  nom. cons.,Elymus,confusus,(Roshev.) Tzvelev,,,,,,Elymus confusus,Gene Pool,Tertiary,Triticum aestivum
+4673,Poaceae,Barnhart  nom. cons.,Elymus,cordilleranus,Davidse & R. W. Pohl,,,,,,Elymus cordilleranus,Gene Pool,Tertiary,Triticum aestivum
+4674,Poaceae,Barnhart  nom. cons.,Elymus,curvatus,Piper,,,,,,Elymus curvatus,Gene Pool,Tertiary,Triticum aestivum
+4675,Poaceae,Barnhart  nom. cons.,Elymus,dahuricus,Turcz. ex Griseb.,,,,,,Elymus dahuricus,Gene Pool,Tertiary,Triticum aestivum
+6479,Poaceae,,Elymus,dahuricus,Turcz. ex Griseb.,dahuricus,,,,,Elymus dahuricus subsp. dahuricus,Gene Pool,Tertiary,Triticum aestivum
+6480,Poaceae,,Elymus,dahuricus,Turcz. ex Griseb.,excelsus,(Turcz. ex Griseb.) Tzvelev,,,,Elymus dahuricus subsp. excelsus,Gene Pool,Tertiary,Triticum aestivum
+4676,Poaceae,Barnhart  nom. cons.,Elymus,dentatus,(Hook. f.) Tzvelev,,,,,,Elymus dentatus,Gene Pool,Tertiary,Triticum aestivum
+4677,Poaceae,Barnhart  nom. cons.,Elymus,donianus,(F. B. White) Á. Löve & D. Löve,,,,,,Elymus donianus,Gene Pool,Tertiary,Triticum aestivum
+4678,Poaceae,Barnhart  nom. cons.,Elymus,drobovii,(Nevski) Tzvelev,,,,,,Elymus drobovii,Gene Pool,Tertiary,Triticum aestivum
+4679,Poaceae,Barnhart  nom. cons.,Elymus,durus,(Keng) S. L. Chen,,,,,,Elymus durus,Gene Pool,Tertiary,Triticum aestivum
+4680,Poaceae,Barnhart  nom. cons.,Elymus,elymoides,(Raf.) Swezey,,,,,,Elymus elymoides,Gene Pool,Tertiary,Triticum aestivum
+6481,Poaceae,,Elymus,elymoides,(Raf.) Swezey,brevifolius,(J. G. Sm.) Barkworth,,,,Elymus elymoides subsp. brevifolius,Gene Pool,Tertiary,Triticum aestivum
+6482,Poaceae,,Elymus,elymoides,(Raf.) Swezey,californicus,(J. G. Sm.) Barkworth,,,,Elymus elymoides subsp. californicus,Gene Pool,Tertiary,Triticum aestivum
+6483,Poaceae,,Elymus,elymoides,(Raf.) Swezey,elymoides,,,,,Elymus elymoides subsp. elymoides,Gene Pool,Tertiary,Triticum aestivum
+6484,Poaceae,,Elymus,elymoides,(Raf.) Swezey,hordeoides,(Suksd.) Barkworth,,,,Elymus elymoides subsp. hordeoides,Gene Pool,Tertiary,Triticum aestivum
+4681,Poaceae,Barnhart  nom. cons.,Elymus,fedtschenkoi,Tzvelev,,,,,,Elymus fedtschenkoi,Gene Pool,Tertiary,Triticum aestivum
+4682,Poaceae,Barnhart  nom. cons.,Elymus,fibrosus,(Schrenk) Tzvelev,,,,,,Elymus fibrosus,Gene Pool,Tertiary,Triticum aestivum
+6485,Poaceae,,Elymus,fibrosus,(Schrenk) Tzvelev,fibrosus,,,,,Elymus fibrosus subsp. fibrosus,Gene Pool,Tertiary,Triticum aestivum
+6486,Poaceae,,,fibrosus,(Schrenk) Tzvelev,subfibrosus,(Tzvelev) Tzvelev,,,,fibrosus subsp. subfibrosus,Gene Pool,Tertiary,Triticum aestivum
+4683,Poaceae,Barnhart  nom. cons.,Elymus,glabriflorus,(Vasey ex L. H. Dewey) Scribn. & C. R. Ball,,,,,,Elymus glabriflorus,Gene Pool,Tertiary,Triticum aestivum
+6487,Poaceae,,Elymus,glabriflorus,(Vasey ex L. H. Dewey) Scribn. & C. R. Ball,,,australis,(Scribn. & C. R. Ball) J. J. N. Campb.,,Elymus glabriflorus var. australis,Gene Pool,Tertiary,Triticum aestivum
+6488,Poaceae,,Elymus,glabriflorus,(Vasey ex L. H. Dewey) Scribn. & C. R. Ball,,,glabriflorus,,,Elymus glabriflorus var. glabriflorus,Gene Pool,Tertiary,Triticum aestivum
+4684,Poaceae,Barnhart  nom. cons.,Elymus,glaucissimus,(Popov) Tzvelev,,,,,,Elymus glaucissimus,Gene Pool,Tertiary,Triticum aestivum
+4685,Poaceae,Barnhart  nom. cons.,Elymus,glaucus,Buckley,,,,,,Elymus glaucus,Gene Pool,Tertiary,Triticum aestivum
+6530,Poaceae,,Elymus,glaucus,Buckley,glaucus,,,,,Elymus glaucus subsp. glaucus,Gene Pool,Tertiary,Triticum aestivum
+6531,Poaceae,,Elymus,glaucus,Buckley,mackenziei,(Bush) J. J. N. Campb.,,,,Elymus glaucus subsp. mackenziei,Gene Pool,Tertiary,Triticum aestivum
+6532,Poaceae,,Elymus,glaucus,Buckley,virescens,(Piper) Gould,,,,Elymus glaucus subsp. virescens,Gene Pool,Tertiary,Triticum aestivum
+4686,Poaceae,Barnhart  nom. cons.,Elymus,gmelinii,(Trin.) Tzvelev,,,,,,Elymus gmelinii,Gene Pool,Tertiary,Triticum aestivum
+6489,Poaceae,,Elymus,gmelinii,(Trin.) Tzvelev,,,gmelinii,,,Elymus gmelinii var. gmelinii,Gene Pool,Tertiary,Triticum aestivum
+6490,Poaceae,,Elymus,gmelinii,(Trin.) Tzvelev,,,macratherus,,,Elymus gmelinii var. macratherus,Gene Pool,Tertiary,Triticum aestivum
+4687,Poaceae,Barnhart  nom. cons.,Elymus,himalayanus,(Nevski) Tzvelev,,,,,,Elymus himalayanus,Gene Pool,Tertiary,Triticum aestivum
+4688,Poaceae,Barnhart  nom. cons.,Elymus,hirsutus,J. Presl,,,,,,Elymus hirsutus,Gene Pool,Tertiary,Triticum aestivum
+4689,Poaceae,Barnhart  nom. cons.,Elymus,hondae,(Kitag.) S. L. Chen,,,,,,Elymus hondae,Gene Pool,Tertiary,Triticum aestivum
+4690,Poaceae,Barnhart  nom. cons.,Elymus,humidus,(Ohwi & Sakam.) Á. Löve,,,,,,Elymus humidus,Gene Pool,Tertiary,Triticum aestivum
+4691,Poaceae,Barnhart  nom. cons.,Elymus,hybridus,(Keng) S. L. Chen,,,,,,Elymus hybridus,Gene Pool,Tertiary,Triticum aestivum
+4692,Poaceae,Barnhart  nom. cons.,Elymus,hystrix,L.,,,,,,Elymus hystrix,Gene Pool,Tertiary,Triticum aestivum
+4693,Poaceae,Barnhart  nom. cons.,Elymus,interruptus,Buckley,,,,,,Elymus interruptus,Gene Pool,Tertiary,Triticum aestivum
+4694,Poaceae,Barnhart  nom. cons.,Elymus,japonicus,(Hack.) Á. Löve,,,,,,Elymus japonicus,Gene Pool,Tertiary,Triticum aestivum
+4695,Poaceae,Barnhart  nom. cons.,Elymus,kronokensis,(Kom.) Tzvelev,,,,,,Elymus kronokensis,Gene Pool,Tertiary,Triticum aestivum
+6491,Poaceae,,Elymus,kronokensis,(Kom.) Tzvelev,kronokensis,,,,,Elymus kronokensis subsp. kronokensis,Gene Pool,Tertiary,Triticum aestivum
+6492,Poaceae,,Elymus,kronokensis,(Kom.) Tzvelev,subalpinus,(Neuman) Tzvelev,,,,Elymus kronokensis subsp. subalpinus,Gene Pool,Tertiary,Triticum aestivum
+4696,Poaceae,Barnhart  nom. cons.,Elymus,lanceolatus,(Scribn. & J. G. Sm.) Gould,,,,,,Elymus lanceolatus,Gene Pool,Tertiary,Triticum aestivum
+6493,Poaceae,,Elymus,lanceolatus,(Scribn. & J. G. Sm.) Gould,lanceolatus,,,,,Elymus lanceolatus subsp. lanceolatus,Gene Pool,Tertiary,Triticum aestivum
+6494,Poaceae,,Elymus,lanceolatus,(Scribn. & J. G. Sm.) Gould,psammophilus,(J. M. Gillett & H. Senn) Á. Löve,,,,Elymus lanceolatus subsp. psammophilus,Gene Pool,Tertiary,Triticum aestivum
+6495,Poaceae,,Elymus,lanceolatus,(Scribn. & J. G. Sm.) Gould,riparius,(Scribn. & J. G. Sm.) Barkworth,,,,Elymus lanceolatus subsp. riparius,Gene Pool,Tertiary,Triticum aestivum
+4697,Poaceae,Barnhart  nom. cons.,Elymus,longearistatus,(Boiss.) Tzvelev,,,,,,Elymus longearistatus,Gene Pool,Tertiary,Triticum aestivum
+4698,Poaceae,Barnhart  nom. cons.,Elymus,macgregorii,R. E. Brooks & J. J. N. Campb.,,,,,,Elymus macgregorii,Gene Pool,Tertiary,Triticum aestivum
+4699,Poaceae,Barnhart  nom. cons.,Elymus,macrochaetus,(Nevski) Tzvelev,,,,,,Elymus macrochaetus,Gene Pool,Tertiary,Triticum aestivum
+4700,Poaceae,Barnhart  nom. cons.,Elymus,macrourus,(Turcz. ex Steud.) Tzvelev,,,,,,Elymus macrourus,Gene Pool,Tertiary,Triticum aestivum
+4701,Poaceae,Barnhart  nom. cons.,Elymus,magellanicus,(E. Desv.) Á. Löve,,,,,,Elymus magellanicus,Gene Pool,Tertiary,Triticum aestivum
+4702,Poaceae,Barnhart  nom. cons.,Elymus,multisetus,(J. G. Sm.) Burtt Davy,,,,,,Elymus multisetus,Gene Pool,Tertiary,Triticum aestivum
+4703,Poaceae,Barnhart  nom. cons.,Elymus,mutabilis,(Drobow) Tzvelev,,,,,,Elymus mutabilis,Gene Pool,Tertiary,Triticum aestivum
+6496,Poaceae,,Elymus,mutabilis,(Drobow) Tzvelev,mutabilis,,,,,Elymus mutabilis subsp. mutabilis,Gene Pool,Tertiary,Triticum aestivum
+6497,Poaceae,,Elymus,mutabilis,(Drobow) Tzvelev,praecaespitosus,(Nevski) Tzvelev,,,,Elymus mutabilis subsp. praecaespitosus,Gene Pool,Tertiary,Triticum aestivum
+4704,Poaceae,Barnhart  nom. cons.,Elymus,nakaii,(Kitag.) S. L. Chen,,,,,,Elymus nakaii,Gene Pool,Tertiary,Triticum aestivum
+4705,Poaceae,Barnhart  nom. cons.,Elymus,nevskii,Tzvelev,,,,,,Elymus nevskii,Gene Pool,Tertiary,Triticum aestivum
+4706,Poaceae,Barnhart  nom. cons.,Elymus,nipponicus,Jaaska,,,,,,Elymus nipponicus,Gene Pool,Tertiary,Triticum aestivum
+4707,Poaceae,Barnhart  nom. cons.,Elymus,nutans,Griseb.,,,,,,Elymus nutans,Gene Pool,Tertiary,Triticum aestivum
+4708,Poaceae,Barnhart  nom. cons.,Elymus,panormitanus,(Parl.) Tzvelev,,,,,,Elymus panormitanus,Gene Pool,Tertiary,Triticum aestivum
+4709,Poaceae,Barnhart  nom. cons.,Elymus,patagonicus,Speg.,,,,,,Elymus patagonicus,Gene Pool,Tertiary,Triticum aestivum
+4710,Poaceae,Barnhart  nom. cons.,Elymus,pendulinus,(Nevski) Tzvelev,,,,,,Elymus pendulinus,Gene Pool,Tertiary,Triticum aestivum
+6498,Poaceae,,Elymus,pendulinus,(Nevski) Tzvelev,brachypodioides,(Nevski) Tzvelev,,,,Elymus pendulinus subsp. brachypodioides,Gene Pool,Tertiary,Triticum aestivum
+6499,Poaceae,,Elymus,pendulinus,(Nevski) Tzvelev,multiculmis,(Kitag.) Á. Löve,,,,Elymus pendulinus subsp. multiculmis,Gene Pool,Tertiary,Triticum aestivum
+6500,Poaceae,,Elymus,pendulinus,(Nevski) Tzvelev,pendulinus,,,,,Elymus pendulinus subsp. pendulinus,Gene Pool,Tertiary,Triticum aestivum
+6501,Poaceae,,Elymus,pendulinus,(Nevski) Tzvelev,Pubicaulis,(Keng) S. L. Chen,,,,Elymus pendulinus subsp. Pubicaulis,Gene Pool,Tertiary,Triticum aestivum
+4711,Poaceae,Barnhart  nom. cons.,Elymus,praeruptus,Tzvelev,,,,,,Elymus praeruptus,Gene Pool,Tertiary,Triticum aestivum
+4712,Poaceae,Barnhart  nom. cons.,Elymus,purpuraristatus,Chao P. Wang & H. L. Yang,,,,,,Elymus purpuraristatus,Gene Pool,Tertiary,Triticum aestivum
+4713,Poaceae,Barnhart  nom. cons.,Elymus,purpurascens,(Keng) S. L. Chen,,,,,,Elymus purpurascens,Gene Pool,Tertiary,Triticum aestivum
+4714,Poaceae,Barnhart  nom. cons.,Elymus,repens,(L.) Gould,,,,,,Elymus repens,Gene Pool,Tertiary,Triticum aestivum
+6502,Poaceae,,Elymus,repens,(L.) Gould,elongatiformis,(Drobow) Melderis,,,,Elymus repens subsp. elongatiformis,Gene Pool,Tertiary,Triticum aestivum
+6503,Poaceae,,Elymus,repens,(L.) Gould,repens,,,,,Elymus repens subsp. repens,Gene Pool,Tertiary,Triticum aestivum
+4715,Poaceae,Barnhart  nom. cons.,Elymus,riparius,Wiegand,,,,,,Elymus riparius,Gene Pool,Tertiary,Triticum aestivum
+4716,Poaceae,Barnhart  nom. cons.,Elymus,scabrifolius,(Döll) J. H. Hunz.,,,,,,Elymus scabrifolius,Gene Pool,Tertiary,Triticum aestivum
+4717,Poaceae,Barnhart  nom. cons.,Elymus,scabriglumis,(Hack.) Á. Löve,,,,,,Elymus scabriglumis,Gene Pool,Tertiary,Triticum aestivum
+4718,Poaceae,Barnhart  nom. cons.,Elymus,schrenkianus,(Fisch. & C. A. Mey.) Tzvelev,,,,,,Elymus schrenkianus,Gene Pool,Tertiary,Triticum aestivum
+4719,Poaceae,Barnhart  nom. cons.,Elymus,schugnanicus,(Nevski) Tzvelev,,,,,,Elymus schugnanicus,Gene Pool,Tertiary,Triticum aestivum
+4720,Poaceae,Barnhart  nom. cons.,Elymus,sclerophyllus,(Nevski) Tzvelev,,,,,,Elymus sclerophyllus,Gene Pool,Tertiary,Triticum aestivum
+4721,Poaceae,Barnhart  nom. cons.,Elymus,scribneri,(Vasey) M. E. Jones,,,,,,Elymus scribneri,Gene Pool,Tertiary,Triticum aestivum
+4722,Poaceae,Barnhart  nom. cons.,Elymus,semicostatus,(Nees ex Steud.) Melderis,,,,,,Elymus semicostatus,Gene Pool,Tertiary,Triticum aestivum
+4723,Poaceae,Barnhart  nom. cons.,Elymus,sibiricus,L.,,,,,,Elymus sibiricus,Gene Pool,Tertiary,Triticum aestivum
+4724,Poaceae,Barnhart  nom. cons.,Elymus,sierrae,Gould,,,,,,Elymus sierrae,Gene Pool,Tertiary,Triticum aestivum
+4725,Poaceae,Barnhart  nom. cons.,Elymus,sinosubmuticus,S. L. Chen,,,,,,Elymus sinosubmuticus,Gene Pool,Tertiary,Triticum aestivum
+4726,Poaceae,Barnhart  nom. cons.,Elymus,stebbinsii,Gould,,,,,,Elymus stebbinsii,Gene Pool,Tertiary,Triticum aestivum
+6504,Poaceae,,Elymus,stebbinsii,Gould,septentrionalis,Barkworth,,,,Elymus stebbinsii subsp. septentrionalis,Gene Pool,Tertiary,Triticum aestivum
+6505,Poaceae,,Elymus,stebbinsii,Gould,stebbinsii,,,,,Elymus stebbinsii subsp. stebbinsii,Gene Pool,Tertiary,Triticum aestivum
+4727,Poaceae,Barnhart  nom. cons.,Elymus,strictus,(Keng) S. L. Chen,,,,,,Elymus strictus,Gene Pool,Tertiary,Triticum aestivum
+6506,Poaceae,,Elymus,strictus,(Keng) S. L. Chen,,,crassus,(L. B. Cai) S. L. Chen,,Elymus strictus var. crassus,Gene Pool,Tertiary,Triticum aestivum
+6507,Poaceae,,Elymus,strictus,(Keng) S. L. Chen,,,strictus,,,Elymus strictus var. strictus,Gene Pool,Tertiary,Triticum aestivum
+4728,Poaceae,Barnhart  nom. cons.,Elymus,tibeticus,(Melderis) G. Singh,,,,,,Elymus tibeticus,Gene Pool,Tertiary,Triticum aestivum
+4729,Poaceae,Barnhart  nom. cons.,Elymus,tilcarensis,(J. H. Hunz.) Á. Löve,,,,,,Elymus tilcarensis,Gene Pool,Tertiary,Triticum aestivum
+4730,Poaceae,Barnhart  nom. cons.,Elymus,trachycaulus,(Link) Gould ex Shinners,,,,,,Elymus trachycaulus,Gene Pool,Tertiary,Triticum aestivum
+6508,Poaceae,,Elymus,trachycaulus,(Link) Gould ex Shinners,subsecundus,(Link) Á. Löve & D. Löve,,,,Elymus trachycaulus subsp. subsecundus,Gene Pool,Tertiary,Triticum aestivum
+6509,Poaceae,,Elymus,trachycaulus,(Link) Gould ex Shinners,trachycaulus,,,,,Elymus trachycaulus subsp. trachycaulus,Gene Pool,Tertiary,Triticum aestivum
+6510,Poaceae,,Elymus,trachycaulus,(Link) Gould ex Shinners,virescens,(Lange) Á. Löve & D. Löve,,,,Elymus trachycaulus subsp. virescens,Gene Pool,Tertiary,Triticum aestivum
+4731,Poaceae,Barnhart  nom. cons.,Elymus,transbaicalensis,(Nevski) Tzvelev,,,,,,Elymus transbaicalensis,Gene Pool,Tertiary,Triticum aestivum
+4732,Poaceae,Barnhart  nom. cons.,Elymus,transhyrcanus,(Nevski) Tzvelev,,,,,,Elymus transhyrcanus,Gene Pool,Tertiary,Triticum aestivum
+4733,Poaceae,Barnhart  nom. cons.,Elymus,tschimganicus,(Drobow) Tzvelev,,,,,,Elymus tschimganicus,Gene Pool,Tertiary,Triticum aestivum
+4734,Poaceae,Barnhart  nom. cons.,Elymus,tsukushiensis,Honda,,,,,,Elymus tsukushiensis,Gene Pool,Tertiary,Triticum aestivum
+6511,Poaceae,,Elymus,tsukushiensis,Honda,,,transiens,(Hack.) Osada,,Elymus tsukushiensis var. transiens,Gene Pool,Tertiary,Triticum aestivum
+6512,Poaceae,,Elymus,tsukushiensis,Honda,,,tsukushiensis,,,Elymus tsukushiensis var. tsukushiensis,Gene Pool,Tertiary,Triticum aestivum
+4735,Poaceae,Barnhart  nom. cons.,Elymus,uralensis,(Nevski) Tzvelev,,,,,,Elymus uralensis,Gene Pool,Tertiary,Triticum aestivum
+6513,Poaceae,,Elymus,uralensis,(Nevski) Tzvelev,komarovii,(Nevski) Tzvelev,,,,Elymus uralensis subsp. komarovii,Gene Pool,Tertiary,Triticum aestivum
+6514,Poaceae,,Elymus,uralensis,(Nevski) Tzvelev,tianschanicus,(Drobow) Tzvelev,,,,Elymus uralensis subsp. tianschanicus,Gene Pool,Tertiary,Triticum aestivum
+6515,Poaceae,,Elymus,uralensis,(Nevski) Tzvelev,uralensis,,,,,Elymus uralensis subsp. uralensis,Gene Pool,Tertiary,Triticum aestivum
+4736,Poaceae,Barnhart  nom. cons.,Elymus,violaceus,(Hornem.) Feilberg,,,,,,Elymus violaceus,Gene Pool,Tertiary,Triticum aestivum
+4737,Poaceae,Barnhart  nom. cons.,Elymus,virginicus,L.,,,,,,Elymus virginicus,Gene Pool,Tertiary,Triticum aestivum
+4738,Poaceae,Barnhart  nom. cons.,Elymus,viridulus,(Keng & S. L. Chen) S. L. Chen,,,,,,Elymus viridulus,Gene Pool,Tertiary,Triticum aestivum
+4739,Poaceae,Barnhart  nom. cons.,Elymus,wawawaiensis,J. R. Carlson & Barkworth,,,,,,Elymus wawawaiensis,Gene Pool,Tertiary,Triticum aestivum
+4740,Poaceae,Barnhart  nom. cons.,Elymus,wiegandii,Fernald,,,,,,Elymus wiegandii,Gene Pool,Tertiary,Triticum aestivum
+4741,Poaceae,Barnhart  nom. cons.,Elymus,yezoensis,Honda,,,,,,Elymus yezoensis,Gene Pool,Tertiary,Triticum aestivum
+4742,Poaceae,Barnhart  nom. cons.,Leymus,aemulans,(Nevski) Tzvelev,,,,,,Leymus aemulans,Gene Pool,Tertiary,Triticum aestivum
+4743,Poaceae,Barnhart  nom. cons.,Leymus,ajanensis,(V. N. Vassil.) Tzvelev,,,,,,Leymus ajanensis,Gene Pool,Tertiary,Triticum aestivum
+4744,Poaceae,Barnhart  nom. cons.,Leymus,akmolinensis,(Drobow) Tzvelev,,,,,,Leymus akmolinensis,Gene Pool,Tertiary,Triticum aestivum
+4745,Poaceae,Barnhart  nom. cons.,Leymus,alaicus,(Korsh.) Tzvelev,,,,,,Leymus alaicus,Gene Pool,Tertiary,Triticum aestivum
+6516,Poaceae,,Leymus,alaicus,(Korsh.) Tzvelev,,alaicus,,,,Leymus alaicus,Gene Pool,Tertiary,Triticum aestivum
+6517,Poaceae,,Leymus,alaicus,(Korsh.) Tzvelev,karataviensis,(Roshev.) Tzvelev,,,,Leymus alaicus subsp. karataviensis,Gene Pool,Tertiary,Triticum aestivum
+6518,Poaceae,,Leymus,alaicus,(Korsh.) Tzvelev,petraeus,(Roshev.) Tzvelev,,,,Leymus alaicus subsp. petraeus,Gene Pool,Tertiary,Triticum aestivum
+4746,Poaceae,Barnhart  nom. cons.,Leymus,ambiguus,(Vasey & Scribn.) D. R. Dewey,,,,,,Leymus ambiguus,Gene Pool,Tertiary,Triticum aestivum
+4747,Poaceae,Barnhart  nom. cons.,Leymus,angustus,(Trin.) Pilg.,,,,,,Leymus angustus,Gene Pool,Tertiary,Triticum aestivum
+4748,Poaceae,Barnhart  nom. cons.,Leymus,arenarius,(L.) Hochst.,,,,,,Leymus arenarius,Gene Pool,Tertiary,Triticum aestivum
+4749,Poaceae,Barnhart  nom. cons.,Leymus,aristiglumis,L. B. Cai,,,,,,Leymus aristiglumis,Gene Pool,Tertiary,Triticum aestivum
+4750,Poaceae,Barnhart  nom. cons.,Leymus,californicus,(Bol. ex Thurb.) Barkworth,,,,,,Leymus californicus,Gene Pool,Tertiary,Triticum aestivum
+4751,Poaceae,Barnhart  nom. cons.,Leymus,chakassicus,Peschkova,,,,,,Leymus chakassicus,Gene Pool,Tertiary,Triticum aestivum
+4752,Poaceae,Barnhart  nom. cons.,Leymus,chinensis,(Trin.) Tzvelev,,,,,,Leymus chinensis,Gene Pool,Tertiary,Triticum aestivum
+4753,Poaceae,Barnhart  nom. cons.,Leymus,cinereus,(Scribn. & Merr.) Á. Löve,,,,,,Leymus cinereus,Gene Pool,Tertiary,Triticum aestivum
+4754,Poaceae,Barnhart  nom. cons.,Leymus,condensatus,(J. Presl) Á. Löve,,,,,,Leymus condensatus,Gene Pool,Tertiary,Triticum aestivum
+4755,Poaceae,Barnhart  nom. cons.,Leymus,coreanus,(Honda) K. B. Jensen & R. R.-C. Wang,,,,,,Leymus coreanus,Gene Pool,Tertiary,Triticum aestivum
+4756,Poaceae,Barnhart  nom. cons.,Leymus,divaricatus,(Drobow) Tzvelev,,,,,,Leymus divaricatus,Gene Pool,Tertiary,Triticum aestivum
+4757,Poaceae,Barnhart  nom. cons.,Leymus,erianthus,(Phil.) Dubcovsky,,,,,,Leymus erianthus,Gene Pool,Tertiary,Triticum aestivum
+4758,Poaceae,Barnhart  nom. cons.,Leymus,flavescens,(Scribn. & J. G. Sm.) Pilg.,,,,,,Leymus flavescens,Gene Pool,Tertiary,Triticum aestivum
+4759,Poaceae,Barnhart  nom. cons.,Leymus,flexilis,(Nevski) Tzvelev,,,,,,Leymus flexilis,Gene Pool,Tertiary,Triticum aestivum
+4760,Poaceae,Barnhart  nom. cons.,Leymus,flexus,L. B. Cai,,,,,,Leymus flexus,Gene Pool,Tertiary,Triticum aestivum
+4761,Poaceae,Barnhart  nom. cons.,Leymus,innovatus,(Beal) Pilg.,,,,,,Leymus innovatus,Gene Pool,Tertiary,Triticum aestivum
+4762,Poaceae,Barnhart  nom. cons.,Leymus,karelinii,(Turcz.) Tzvelev,,,,,,Leymus karelinii,Gene Pool,Tertiary,Triticum aestivum
+4763,Poaceae,Barnhart  nom. cons.,Leymus,komarovii,(Roshev.) J. L. Yang & C. Yen,,,,,,Leymus komarovii,Gene Pool,Tertiary,Triticum aestivum
+4764,Poaceae,Barnhart  nom. cons.,Leymus,mendocinus,(Parodi) Dubcovsky,,,,,,Leymus mendocinus,Gene Pool,Tertiary,Triticum aestivum
+4765,Poaceae,Barnhart  nom. cons.,Leymus,mollis,(Trin.) Pilg.,,,,,,Leymus mollis,Gene Pool,Tertiary,Triticum aestivum
+6519,Poaceae,,Leymus,mollis,(Trin.) Pilg.,mollis,,,,,Leymus mollis subsp. mollis,Gene Pool,Tertiary,Triticum aestivum
+6520,Poaceae,,Leymus,mollis,(Trin.) Pilg.,villosissimus,(Scribn.) Á. Löve & D. Löve,,,,Leymus mollis subsp. villosissimus,Gene Pool,Tertiary,Triticum aestivum
+4766,Poaceae,Barnhart  nom. cons.,Leymus,multicaulis,(Kar. & Kir.) Tzvelev,,,,,,Leymus multicaulis,Gene Pool,Tertiary,Triticum aestivum
+4767,Poaceae,Barnhart  nom. cons.,Leymus,obvipodus,L. B. Cai,,,,,,Leymus obvipodus,Gene Pool,Tertiary,Triticum aestivum
+4768,Poaceae,Barnhart  nom. cons.,Leymus,ordensis,Peschkova,,,,,,Leymus ordensis,Gene Pool,Tertiary,Triticum aestivum
+4769,Poaceae,Barnhart  nom. cons.,Leymus,ovatus,(Trin.) Tzvelev,,,,,,Leymus ovatus,Gene Pool,Tertiary,Triticum aestivum
+4770,Poaceae,Barnhart  nom. cons.,Leymus,paboanus,(Claus) Pilg.,,,,,,Leymus paboanus,Gene Pool,Tertiary,Triticum aestivum
+4771,Poaceae,Barnhart  nom. cons.,Leymus,pacificus,(Gould) D. R. Dewey,,,,,,Leymus pacificus,Gene Pool,Tertiary,Triticum aestivum
+4772,Poaceae,Barnhart  nom. cons.,Leymus,pendulus,L. B. Cai,,,,,,Leymus pendulus,Gene Pool,Tertiary,Triticum aestivum
+4773,Poaceae,Barnhart  nom. cons.,Leymus,pishanicus,S. L. Lu & Y. H. Wu,,,,,,Leymus pishanicus,Gene Pool,Tertiary,Triticum aestivum
+4774,Poaceae,Barnhart  nom. cons.,Leymus,pseudoracemosus,C. Yen & J. L. Yang,,,,,,Leymus pseudoracemosus,Gene Pool,Tertiary,Triticum aestivum
+4775,Poaceae,Barnhart  nom. cons.,Leymus,pubinodis,(Keng) Á. Löve,,,,,,Leymus pubinodis,Gene Pool,Tertiary,Triticum aestivum
+4776,Poaceae,Barnhart  nom. cons.,Leymus,qinghaicus,L. B. Cai,,,,,,Leymus qinghaicus,Gene Pool,Tertiary,Triticum aestivum
+4777,Poaceae,Barnhart  nom. cons.,Leymus,racemosus,(Lam.) Tzvelev,,,,,,Leymus racemosus,Gene Pool,Tertiary,Triticum aestivum
+6521,Poaceae,,Leymus,racemosus,(Lam.) Tzvelev,klokovii,Tzvelev,,,,Leymus racemosus subsp. klokovii,Gene Pool,Tertiary,Triticum aestivum
+6522,Poaceae,,Leymus,racemosus,(Lam.) Tzvelev,racemosus,,,,,Leymus racemosus subsp. racemosus,Gene Pool,Tertiary,Triticum aestivum
+6523,Poaceae,,Leymus,racemosus,(Lam.) Tzvelev,sabulosus,(M. Bieb.) Tzvelev,,,,Leymus racemosus subsp. sabulosus,Gene Pool,Tertiary,Triticum aestivum
+4778,Poaceae,Barnhart  nom. cons.,Leymus,ramosus,(Trin.) Tzvelev,,,,,,Leymus ramosus,Gene Pool,Tertiary,Triticum aestivum
+4779,Poaceae,Barnhart  nom. cons.,Leymus,ruoqiangensis,S. L. Lu & Y. H. Wu,,,,,,Leymus ruoqiangensis,Gene Pool,Tertiary,Triticum aestivum
+4780,Poaceae,Barnhart  nom. cons.,Leymus,salina,(M. E. Jones) Á. Löve,,,,,,Leymus salina,Gene Pool,Tertiary,Triticum aestivum
+6524,Poaceae,,Leymus,salina,(M. E. Jones) Á. Löve,mojavensis,Barkworth & R. J. Atkins,,,,Leymus salina subsp. mojavensis,Gene Pool,Tertiary,Triticum aestivum
+6525,Poaceae,,Leymus,salina,(M. E. Jones) Á. Löve,salina,,,,,Leymus salina subsp. salina,Gene Pool,Tertiary,Triticum aestivum
+6526,Poaceae,,Leymus,salina,,salmonis,(C. L. Hitchc.) R. J. Atkins,,,,Leymus salina subsp. salmonis,Gene Pool,Tertiary,Triticum aestivum
+4781,Poaceae,Barnhart  nom. cons.,Leymus,secalinus,(Georgi) Tzvelev,,,,,,Leymus secalinus,Gene Pool,Tertiary,Triticum aestivum
+4782,Poaceae,Barnhart  nom. cons.,Leymus,shanxiensis,G. H. Zhu & S. L. Chen,,,,,,Leymus shanxiensis,Gene Pool,Tertiary,Triticum aestivum
+4783,Poaceae,Barnhart  nom. cons.,Leymus,simplex,(Scribn. & T. A. Williams) D. R. Dewey,,,,,,Leymus simplex,Gene Pool,Tertiary,Triticum aestivum
+4784,Poaceae,Barnhart  nom. cons.,Leymus,sphacelatus,Peschkova,,,,,,Leymus sphacelatus,Gene Pool,Tertiary,Triticum aestivum
+4785,Poaceae,Barnhart  nom. cons.,Leymus,tianschanicus,(Drobow) Tzvelev,,,,,,Leymus tianschanicus,Gene Pool,Tertiary,Triticum aestivum
+4786,Poaceae,Barnhart  nom. cons.,Leymus,triticoides,(Buckley) Pilg.,,,,,,Leymus triticoides,Gene Pool,Tertiary,Triticum aestivum
+4787,Poaceae,Barnhart  nom. cons.,Leymus,tuvinicus,Peschkova,,,,,,Leymus tuvinicus,Gene Pool,Tertiary,Triticum aestivum
+4788,Poaceae,Barnhart  nom. cons.,Leymus,yiunensis,N. R. Cui & D. F. Cui,,,,,,Leymus yiunensis,Gene Pool,Tertiary,Triticum aestivum
+4789,Poaceae,Barnhart  nom. cons.,Thinopyrum,bessarabicum,(Savul. & Rayss) Á. Löve,,,,,,Thinopyrum bessarabicum,Gene Pool,Tertiary,Triticum aestivum
+4790,Poaceae,Barnhart  nom. cons.,Thinopyrum,caespitosum,(K. Koch) Zhi W. Liu & R. R.-C. Wang,,,,,,Thinopyrum caespitosum,Gene Pool,Tertiary,Triticum aestivum
+4791,Poaceae,Barnhart  nom. cons.,Thinopyrum,curvifolium,(Lange) D. R. Dewey,,,,,,Thinopyrum curvifolium,Gene Pool,Tertiary,Triticum aestivum
+4792,Poaceae,Barnhart  nom. cons.,Thinopyrum,distichum,(Thunb.) Á. Löve,,,,,,Thinopyrum distichum,Gene Pool,Tertiary,Triticum aestivum
+4793,Poaceae,Barnhart  nom. cons.,Thinopyrum,elongatum,(Host) D. R. Dewey,,,,,,Thinopyrum elongatum,Gene Pool,Tertiary,Triticum aestivum
+4794,Poaceae,Barnhart  nom. cons.,Thinopyrum,gentryi,(Melderis) D. R. Dewey,,,,,,Thinopyrum gentryi,Gene Pool,Tertiary,Triticum aestivum
+4795,Poaceae,Barnhart  nom. cons.,Thinopyrum,intermedium,(Host) Barkworth & D. R. Dewey,,,,,,Thinopyrum intermedium,Gene Pool,Tertiary,Triticum aestivum
+6545,Poaceae,,Thinopyrum,intermedium,(Host) Barkworth & D. R. Dewey,barbulatum,(Schur) Barkworth & D. R. Dewey,,,,Thinopyrum intermedium subsp. barbulatum,Gene Pool,Tertiary,Triticum aestivum
+5025,Poaceae,,Thinopyrum,intermedium,(Host) Barkworth & D. R. Dewey,intermedium,,,,,Thinopyrum intermedium subsp. intermedium,Gene Pool,Tertiary,Triticum aestivum
+4796,Poaceae,Barnhart  nom. cons.,Thinopyrum,junceiforme,(Á. Löve & D. Löve) Á. Löve,,,,,,Thinopyrum junceiforme,Gene Pool,Tertiary,Triticum aestivum
+4797,Poaceae,Barnhart  nom. cons.,Thinopyrum,junceum,(L.) Á. Löve,,,,,,Thinopyrum junceum,Gene Pool,Tertiary,Triticum aestivum
+4798,Poaceae,Barnhart  nom. cons.,Thinopyrum,podperae,(Nábelek) D. R. Dewey,,,,,,Thinopyrum podperae,Gene Pool,Tertiary,Triticum aestivum
+4799,Poaceae,Barnhart  nom. cons.,Thinopyrum,ponticum,(Podp.) Barkworth & D. R. Dewey,,,,,,Thinopyrum ponticum,Gene Pool,Tertiary,Triticum aestivum
+4800,Poaceae,Barnhart  nom. cons.,Thinopyrum,pungens,(Pers.) Barkworth,,,,,,Thinopyrum pungens,Gene Pool,Tertiary,Triticum aestivum
+4801,Poaceae,Barnhart  nom. cons.,Thinopyrum,pycnanthum,(Godr.) Barkworth,,,,,,Thinopyrum pycnanthum,Gene Pool,Tertiary,Triticum aestivum
+4802,Poaceae,Barnhart  nom. cons.,Thinopyrum,sartorii,(Boiss. & Heldr.) Á. Löve,,,,,,Thinopyrum sartorii,Gene Pool,Tertiary,Triticum aestivum
+4803,Poaceae,Barnhart  nom. cons.,Thinopyrum,scirpeum,(C. Presl) D. R. Dewey,,,,,,Thinopyrum scirpeum,Gene Pool,Tertiary,Triticum aestiv

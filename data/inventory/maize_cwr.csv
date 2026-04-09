@@ -1,0 +1,32 @@
+﻿Id,Family,FamilyAuthor,Genus,Specie,SpecieAuthor,Subspecie,SubspecieAuthor,Variety,VarietyAuthor,CommonName,ScientificName,ConceptType,ConceptLevel,MainTaxon,
+3709,Poaceae,Barnhart  nom. cons.,Zea,mays,L.,huehuetenangensis,(H. H. Iltis & Doebley) Doebley,,,Huehuetenango teosinte,Zea mays subsp. huehuetenangensis,Gene Pool,Primary,Zea mays
+3710,Poaceae,Barnhart  nom. cons.,Zea,mays,L.,mexicana,(Schrad.) H. H. Iltis,,,Central-plateau teosinte,Zea mays subsp. mexicana,Gene Pool,Primary,Zea mays
+3711,Poaceae,Barnhart  nom. cons.,Zea,mays,L.,parviglumis,H. H. Iltis & Doebley,,,Balsas teosinte,Zea mays subsp. parviglumis,Gene Pool,Primary,Zea mays
+3707,Poaceae,Barnhart  nom. cons.,Zea,diploperennis,H. H. Iltis et al.,,,,,Diploperennial teosinte,Zea diploperennis,Gene Pool,Secondary,Zea mays
+3708,Poaceae,Barnhart  nom. cons.,Zea,luxurians,(Durieu & Asch.) R. M. Bird,,,,,Florida teosinte,Zea luxurians,Gene Pool,Secondary,Zea mays
+3712,Poaceae,Barnhart  nom. cons.,Zea,nicaraguensis,H. H. Iltis & B. F. Benz,,,,,,Zea nicaraguensis,Gene Pool,Secondary,Zea mays
+3713,Poaceae,Barnhart  nom. cons.,Zea,perennis,(Hitchc.) Reeves & Mangelsd.,,,,,Perennial teosinte,Zea perennis,Gene Pool,Secondary,Zea mays
+3714,Poaceae,Barnhart  nom. cons.,Tripsacum,andersonii,J. R. Gray,,,,,Guatemalan grass,Tripsacum andersonii,Gene Pool,Tertiary,Zea mays
+3715,Poaceae,Barnhart  nom. cons.,Tripsacum,australe,H. C. Cutler & E. S. Anderson,,,,,,Tripsacum australe,Gene Pool,Tertiary,Zea mays
+3716,Poaceae,Barnhart  nom. cons.,Tripsacum,australe,H. C. Cutler & E. S. Anderson,,,australe,H. C. Cutler & E. S. Anderson,,Tripsacum australe var. australe,Gene Pool,Tertiary,Zea mays
+3717,Poaceae,Barnhart  nom. cons.,Tripsacum,australe,H. C. Cutler & E. S. Anderson,,,hirsutum,de Wet & Timothy,,Tripsacum australe var. hirsutum,Gene Pool,Tertiary,Zea mays
+3718,Poaceae,Barnhart  nom. cons.,Tripsacum,bravum,J. R. Gray,,,,,,Tripsacum bravum,Gene Pool,Tertiary,Zea mays
+3719,Poaceae,Barnhart  nom. cons.,Tripsacum,cundinamarcae,de Wet & Timothy,,,,,,Tripsacum cundinamarcae,Gene Pool,Tertiary,Zea mays
+3720,Poaceae,Barnhart  nom. cons.,Tripsacum,dactyloides,(L.) L.,,,,,Eastern gamagrass,Tripsacum dactyloides,Gene Pool,Tertiary,Zea mays
+3721,Poaceae,Barnhart  nom. cons.,Tripsacum,dactyloides,(L.) L.,,,dactyloides,(L.) L.,,Tripsacum dactyloides var. dactyloides,Gene Pool,Tertiary,Zea mays
+3722,Poaceae,Barnhart  nom. cons.,Tripsacum,dactyloides,(L.) L.,,,hispidum,(Hitchc.) de Wet & J. R. Harlan,,Tripsacum dactyloides var. hispidum,Gene Pool,Tertiary,Zea mays
+3723,Poaceae,Barnhart  nom. cons.,Tripsacum,dactyloides,(L.) L.,,,meridonale,de Wet & Timothy,,Tripsacum dactyloides var. meridonale,Gene Pool,Tertiary,Zea mays
+3724,Poaceae,Barnhart  nom. cons.,Tripsacum,dactyloides,(L.) L.,,,mexicanum,de Wet & J. R. Harlan,,Tripsacum dactyloides var. mexicanum,Gene Pool,Tertiary,Zea mays
+3725,Poaceae,Barnhart  nom. cons.,Tripsacum,floridanum,Porter ex Vasey,,,,,Florida gamagrass,Tripsacum floridanum,Gene Pool,Tertiary,Zea mays
+3726,Poaceae,Barnhart  nom. cons.,Tripsacum,intermedium,de Wet & J. R. Harlan,,,,,,Tripsacum intermedium,Gene Pool,Tertiary,Zea mays
+3727,Poaceae,Barnhart  nom. cons.,Tripsacum,jalapense,de Wet & Brink,,,,,,Tripsacum jalapense,Gene Pool,Tertiary,Zea mays
+3728,Poaceae,Barnhart  nom. cons.,Tripsacum,lanceolatum,Rupr. ex E. Fourn.,,,,,Mexican gamagrass,Tripsacum lanceolatum,Gene Pool,Tertiary,Zea mays
+3729,Poaceae,Barnhart  nom. cons.,Tripsacum,latifolium,Hitchc.,,,,,,Tripsacum latifolium,Gene Pool,Tertiary,Zea mays
+3730,Poaceae,Barnhart  nom. cons.,Tripsacum,laxum,Nash,,,,,Grama-Guatemala,Tripsacum laxum,Gene Pool,Tertiary,Zea mays
+3731,Poaceae,Barnhart  nom. cons.,Tripsacum,maizar,Hern.-Xol. & Randolph,,,,,Zacaton maizar,Tripsacum maizar,Gene Pool,Tertiary,Zea mays
+3732,Poaceae,Barnhart  nom. cons.,Tripsacum,manisuroides,de Wet & J. R. Harlan,,,,,,Tripsacum manisuroides,Gene Pool,Tertiary,Zea mays
+3733,Poaceae,Barnhart  nom. cons.,Tripsacum,peruvianum,de Wet & Timothy,,,,,,Tripsacum peruvianum,Gene Pool,Tertiary,Zea mays
+3734,Poaceae,Barnhart  nom. cons.,Tripsacum,pilosum,Scribn. & Merr.,,,,,Maizillo,Tripsacum pilosum,Gene Pool,Tertiary,Zea mays
+3735,Poaceae,Barnhart  nom. cons.,Tripsacum,pilosum,Scribn. & Merr.,,,guatemalense,de Wet & Brink,,Tripsacum pilosum var. guatemalense,Gene Pool,Tertiary,Zea mays
+3736,Poaceae,Barnhart  nom. cons.,Tripsacum,pilosum,Scribn. & Merr.,,,pilosum,Scribn. & Merr.,,Tripsacum pilosum var. pilosum,Gene Pool,Tertiary,Zea mays
+3737,Poaceae,Barnhart  nom. cons.,Tripsacum,zopilotense,Hern.-Xol. & Randolph,,,,,,Tripsacum zopilotense,Gene Pool,Tertiary,Zea ma

@@ -1,0 +1,104 @@
+﻿Id,Family,FamilyAuthor,Genus,Specie,SpecieAuthor,Subspecie,SubspecieAuthor,Variety,VarietyAuthor,CommonName,ScientificName,ConceptType,ConceptLevel,MainTaxon,
+682,Solanaceae,Juss.  nom. cons.,Solanum,acaule,Bitter,,,,,,Solanum acaule,Gene Pool,Primary,Solanum tuberosum
+683,Solanaceae,Juss.  nom. cons.,Solanum,berthaultii,Hawkes,,,,,,Solanum berthaultii,Gene Pool,Primary,Solanum tuberosum
+684,Solanaceae,Juss.  nom. cons.,Solanum,brevicaule,Bitter,,,,,,Solanum brevicaule,Gene Pool,Primary,Solanum tuberosum
+685,Solanaceae,Juss.  nom. cons.,Solanum,candolleanum,P. Berthault,,,,,,Solanum candolleanum,Gene Pool,Primary,Solanum tuberosum
+686,Solanaceae,Juss.  nom. cons.,Solanum,coelestipetalum,Vargas,,,,,,Solanum coelestipetalum,Gene Pool,Primary,Solanum tuberosum
+687,Solanaceae,Juss.  nom. cons.,Solanum,infundibuliforme,Phil.,,,,,,Solanum infundibuliforme,Gene Pool,Primary,Solanum tuberosum
+688,Solanaceae,Juss.  nom. cons.,Solanum,marinasense,Vargas,,,,,,Solanum marinasense,Gene Pool,Primary,Solanum tuberosum
+689,Solanaceae,Juss.  nom. cons.,Solanum,okadae,Hawkes & Hjert.,,,,,,Solanum okadae,Gene Pool,Primary,Solanum tuberosum
+690,Solanaceae,Juss.  nom. cons.,Solanum,ortegae,Ochoa,,,,,,Solanum ortegae,Gene Pool,Primary,Solanum tuberosum
+691,Solanaceae,Juss.  nom. cons.,Solanum,vernei,Bitter & Wittm.,,,,,,Solanum vernei,Gene Pool,Primary,Solanum tuberosum
+692,Solanaceae,Juss.  nom. cons.,Solanum,acroglossum,Juz.,,,,,,Solanum acroglossum,Gene Pool,Secondary,Solanum tuberosum
+693,Solanaceae,Juss.  nom. cons.,Solanum,acroscopicum,Ochoa,,,,,,Solanum acroscopicum,Gene Pool,Secondary,Solanum tuberosum
+694,Solanaceae,Juss.  nom. cons.,Solanum,agrimonifolium,Rydb.,,,,,,Solanum agrimonifolium,Gene Pool,Secondary,Solanum tuberosum
+695,Solanaceae,Juss.  nom. cons.,Solanum,albicans,(Ochoa) Ochoa,,,,,,Solanum albicans,Gene Pool,Secondary,Solanum tuberosum
+696,Solanaceae,Juss.  nom. cons.,Solanum,albornozii,Correll,,,,,,Solanum albornozii,Gene Pool,Secondary,Solanum tuberosum
+697,Solanaceae,Juss.  nom. cons.,Solanum,andreanum,Baker,,,,,,Solanum andreanum,Gene Pool,Secondary,Solanum tuberosum
+698,Solanaceae,Juss.  nom. cons.,Solanum,ayacuchense,Ochoa,,,,,,Solanum ayacuchense,Gene Pool,Secondary,Solanum tuberosum
+699,Solanaceae,Juss.  nom. cons.,Solanum,boliviense,Dunal,,,,,,Solanum boliviense,Gene Pool,Secondary,Solanum tuberosum
+700,Solanaceae,Juss.  nom. cons.,Solanum,bombycinum,Ochoa,,,,,,Solanum bombycinum,Gene Pool,Secondary,Solanum tuberosum
+701,Solanaceae,Juss.  nom. cons.,Solanum,buesii,Vargas,,,,,,Solanum buesii,Gene Pool,Secondary,Solanum tuberosum
+702,Solanaceae,Juss.  nom. cons.,Solanum,burkartii,Ochoa,,,,,,Solanum burkartii,Gene Pool,Secondary,Solanum tuberosum
+703,Solanaceae,Juss.  nom. cons.,Solanum,cajamarquense,Ochoa,,,,,,Solanum cajamarquense,Gene Pool,Secondary,Solanum tuberosum
+704,Solanaceae,Juss.  nom. cons.,Solanum,cantense,Ochoa,,,,,,Solanum cantense,Gene Pool,Secondary,Solanum tuberosum
+705,Solanaceae,Juss.  nom. cons.,Solanum,chacoense,Bitter,,,,,,Solanum chacoense,Gene Pool,Secondary,Solanum tuberosum
+706,Solanaceae,Juss.  nom. cons.,Solanum,chilliasense,Ochoa,,,,,,Solanum chilliasense,Gene Pool,Secondary,Solanum tuberosum
+707,Solanaceae,Juss.  nom. cons.,Solanum,chiquidenum,Ochoa,,,,,,Solanum chiquidenum,Gene Pool,Secondary,Solanum tuberosum
+708,Solanaceae,Juss.  nom. cons.,Solanum,chomatophilum,Bitter,,,,,,Solanum chomatophilum,Gene Pool,Secondary,Solanum tuberosum
+709,Solanaceae,Juss.  nom. cons.,Solanum,clarum,Correll,,,,,,Solanum clarum,Gene Pool,Secondary,Solanum tuberosum
+710,Solanaceae,Juss.  nom. cons.,Solanum,colombianum,Dunal,,,,,,Solanum colombianum,Gene Pool,Secondary,Solanum tuberosum
+711,Solanaceae,Juss.  nom. cons.,Solanum,contumazaense,Ochoa,,,,,,Solanum contumazaense,Gene Pool,Secondary,Solanum tuberosum
+712,Solanaceae,Juss.  nom. cons.,Solanum,demissum,Lindl.,,,,,,Solanum demissum,Gene Pool,Secondary,Solanum tuberosum
+713,Solanaceae,Juss.  nom. cons.,Solanum,flahaultii,Bitter,,,,,,Solanum flahaultii,Gene Pool,Secondary,Solanum tuberosum
+714,Solanaceae,Juss.  nom. cons.,Solanum,flavoviridens,Ochoa,,,,,,Solanum flavoviridens,Gene Pool,Secondary,Solanum tuberosum
+715,Solanaceae,Juss.  nom. cons.,Solanum,gandarillasii,Cardenas,,,,,,Solanum gandarillasii,Gene Pool,Secondary,Solanum tuberosum
+716,Solanaceae,Juss.  nom. cons.,Solanum,garcia-barrigae,Ochoa,,,,,,Solanum garcia-barrigae,Gene Pool,Secondary,Solanum tuberosum
+717,Solanaceae,Juss.  nom. cons.,Solanum,gracilifrons,Bitter,,,,,,Solanum gracilifrons,Gene Pool,Secondary,Solanum tuberosum
+718,Solanaceae,Juss.  nom. cons.,Solanum,guerreroense,Correll,,,,,,Solanum guerreroense,Gene Pool,Secondary,Solanum tuberosum
+719,Solanaceae,Juss.  nom. cons.,Solanum,hastiforme,Correll,,,,,,Solanum hastiforme,Gene Pool,Secondary,Solanum tuberosum
+720,Solanaceae,Juss.  nom. cons.,Solanum,hintonii,Correll,,,,,,Solanum hintonii,Gene Pool,Secondary,Solanum tuberosum
+721,Solanaceae,Juss.  nom. cons.,Solanum,hjertingii,Hawkes,,,,,,Solanum hjertingii,Gene Pool,Secondary,Solanum tuberosum
+722,Solanaceae,Juss.  nom. cons.,Solanum,hougasii,Correll,,,,,,Solanum hougasii,Gene Pool,Secondary,Solanum tuberosum
+723,Solanaceae,Juss.  nom. cons.,Solanum,huancabambense,Ochoa,,,,,,Solanum huancabambense,Gene Pool,Secondary,Solanum tuberosum
+724,Solanaceae,Juss.  nom. cons.,Solanum,incasicum,Ochoa,,,,,,Solanum incasicum,Gene Pool,Secondary,Solanum tuberosum
+725,Solanaceae,Juss.  nom. cons.,Solanum,iopetalum,(Bitter) Hawkes,,,,,,Solanum iopetalum,Gene Pool,Secondary,Solanum tuberosum
+726,Solanaceae,Juss.  nom. cons.,Solanum,kurtzianum,Bitter & Wittm.,,,,,,Solanum kurtzianum,Gene Pool,Secondary,Solanum tuberosum
+727,Solanaceae,Juss.  nom. cons.,Solanum,laxissimum,Bitter,,,,,,Solanum laxissimum,Gene Pool,Secondary,Solanum tuberosum
+728,Solanaceae,Juss.  nom. cons.,Solanum,lesteri,Hawkes & Hjert.,,,,,,Solanum lesteri,Gene Pool,Secondary,Solanum tuberosum
+729,Solanaceae,Juss.  nom. cons.,Solanum,limbaniense,Ochoa,,,,,,Solanum limbaniense,Gene Pool,Secondary,Solanum tuberosum
+730,Solanaceae,Juss.  nom. cons.,Solanum,lobbianum,Bitter,,,,,,Solanum lobbianum,Gene Pool,Secondary,Solanum tuberosum
+731,Solanaceae,Juss.  nom. cons.,Solanum,longiconicum,Bitter,,,,,,Solanum longiconicum,Gene Pool,Secondary,Solanum tuberosum
+732,Solanaceae,Juss.  nom. cons.,Solanum,maglia,Schltdl.,,,,,,Solanum maglia,Gene Pool,Secondary,Solanum tuberosum
+733,Solanaceae,Juss.  nom. cons.,Solanum,medians,Bitter,,,,,,Solanum medians,Gene Pool,Secondary,Solanum tuberosum
+734,Solanaceae,Juss.  nom. cons.,Solanum,microdontum,Bitter,,,,,,Solanum microdontum,Gene Pool,Secondary,Solanum tuberosum
+735,Solanaceae,Juss.  nom. cons.,Solanum,morelliforme,Bitter & Munch,,,,,,Solanum morelliforme,Gene Pool,Secondary,Solanum tuberosum
+736,Solanaceae,Juss.  nom. cons.,Solanum,multiinterruptum,Bitter,,,,,,Solanum multiinterruptum,Gene Pool,Secondary,Solanum tuberosum
+737,Solanaceae,Juss.  nom. cons.,Solanum,neocardenasii,Hawkes & Hjert.,,,,,,Solanum neocardenasii,Gene Pool,Secondary,Solanum tuberosum
+738,Solanaceae,Juss.  nom. cons.,Solanum,neorossii,Hawkes & Hjert.,,,,,,Solanum neorossii,Gene Pool,Secondary,Solanum tuberosum
+739,Solanaceae,Juss.  nom. cons.,Solanum,neovavilovii,Ochoa,,,,,,Solanum neovavilovii,Gene Pool,Secondary,Solanum tuberosum
+740,Solanaceae,Juss.  nom. cons.,Solanum,nubicola,Ochoa,,,,,,Solanum nubicola,Gene Pool,Secondary,Solanum tuberosum
+741,Solanaceae,Juss.  nom. cons.,Solanum,olmosense,Ochoa,,,,,,Solanum olmosense,Gene Pool,Secondary,Solanum tuberosum
+742,Solanaceae,Juss.  nom. cons.,Solanum,oxycarpum,Schiede,,,,,,Solanum oxycarpum,Gene Pool,Secondary,Solanum tuberosum
+743,Solanaceae,Juss.  nom. cons.,Solanum,paucissectum,Ochoa,,,,,,Solanum paucissectum,Gene Pool,Secondary,Solanum tuberosum
+744,Solanaceae,Juss.  nom. cons.,Solanum,pillahuatense,Vargas,,,,,,Solanum pillahuatense,Gene Pool,Secondary,Solanum tuberosum
+745,Solanaceae,Juss.  nom. cons.,Solanum,piurae,Bitter,,,,,,Solanum piurae,Gene Pool,Secondary,Solanum tuberosum
+746,Solanaceae,Juss.  nom. cons.,Solanum,polyadenium,Greenm.,,,,,,Solanum polyadenium,Gene Pool,Secondary,Solanum tuberosum
+747,Solanaceae,Juss.  nom. cons.,Solanum,raphanifolium,Cardenas & Hawkes,,,,,,Solanum raphanifolium,Gene Pool,Secondary,Solanum tuberosum
+748,Solanaceae,Juss.  nom. cons.,Solanum,rhomboideilanceolatum,Ochoa,,,,,,Solanum rhomboideilanceolatum,Gene Pool,Secondary,Solanum tuberosum
+749,Solanaceae,Juss.  nom. cons.,Solanum,salasianum,Ochoa,,,,,,Solanum salasianum,Gene Pool,Secondary,Solanum tuberosum
+750,Solanaceae,Juss.  nom. cons.,Solanum,schenckii,Bitter,,,,,,Solanum schenckii,Gene Pool,Secondary,Solanum tuberosum
+751,Solanaceae,Juss.  nom. cons.,Solanum,sogarandinum,Ochoa,,,,,,Solanum sogarandinum,Gene Pool,Secondary,Solanum tuberosum
+752,Solanaceae,Juss.  nom. cons.,Solanum,stoloniferum,Schltdl. & Bouche,,,,,,Solanum stoloniferum,Gene Pool,Secondary,Solanum tuberosum
+753,Solanaceae,Juss.  nom. cons.,Solanum,taulisense,Ochoa,,,,,,Solanum taulisense,Gene Pool,Secondary,Solanum tuberosum
+754,Solanaceae,Juss.  nom. cons.,Solanum,venturii,Hawkes & Hjert.,,,,,,Solanum venturii,Gene Pool,Secondary,Solanum tuberosum
+755,Solanaceae,Juss.  nom. cons.,Solanum,verrucosum,Schltdl.,,,,,,Solanum verrucosum,Gene Pool,Secondary,Solanum tuberosum
+756,Solanaceae,Juss.  nom. cons.,Solanum,violaceimarmoratum,Bitter,,,,,,Solanum violaceimarmoratum,Gene Pool,Secondary,Solanum tuberosum
+1741,Solanaceae,Juss.  nom. cons.,Solanum,anamatophilum,Ochoa,,,,,,Solanum anamatophilum,Gene Pool,Tertiary,Solanum tuberosum
+1742,Solanaceae,Juss.  nom. cons.,Solanum,augustii,Ochoa,,,,,,Solanum augustii,Gene Pool,Tertiary,Solanum tuberosum
+1743,Solanaceae,Juss.  nom. cons.,Solanum,bulbocastanum,Dunal,,,,,,Solanum bulbocastanum,Gene Pool,Tertiary,Solanum tuberosum
+1744,Solanaceae,Juss.  nom. cons.,Solanum,cardiophyllum,Lindl.,,,,,,Solanum cardiophyllum,Gene Pool,Tertiary,Solanum tuberosum
+1745,Solanaceae,Juss.  nom. cons.,Solanum,circaeifolium,Bitter,,,,,,Solanum circaeifolium,Gene Pool,Tertiary,Solanum tuberosum
+1746,Solanaceae,Juss.  nom. cons.,Solanum,commersonii,Poir.,,,,,,Solanum commersonii,Gene Pool,Tertiary,Solanum tuberosum
+1747,Solanaceae,Juss.  nom. cons.,Solanum,dolichocremastrum,Bitter,,,,,,Solanum dolichocremastrum,Gene Pool,Tertiary,Solanum tuberosum
+1748,Solanaceae,Juss.  nom. cons.,Solanum,ehrenbergii,(Bitter) Rydb.,,,,,,Solanum ehrenbergii,Gene Pool,Tertiary,Solanum tuberosum
+1749,Solanaceae,Juss.  nom. cons.,Solanum,etuberosum,Lindl.,,,,,,Solanum etuberosum,Gene Pool,Tertiary,Solanum tuberosum
+1750,Solanaceae,Juss.  nom. cons.,Solanum,fernandezianum,Phil.,,,,,,Solanum fernandezianum,Gene Pool,Tertiary,Solanum tuberosum
+1751,Solanaceae,Juss.  nom. cons.,Solanum,humectophilum,Ochoa,,,,,,Solanum humectophilum,Gene Pool,Tertiary,Solanum tuberosum
+1752,Solanaceae,Juss.  nom. cons.,Solanum,hypacrarthrum,Bitter,,,,,,Solanum hypacrarthrum,Gene Pool,Tertiary,Solanum tuberosum
+1753,Solanaceae,Juss.  nom. cons.,Solanum,immite,Dunal,,,,,,Solanum immite,Gene Pool,Tertiary,Solanum tuberosum
+1754,Solanaceae,Juss.  nom. cons.,Solanum,jamesii,Torr.,,,,,,Solanum jamesii,Gene Pool,Tertiary,Solanum tuberosum
+1755,Solanaceae,Juss.  nom. cons.,Solanum,lignicaule,Vargas,,,,,,Solanum lignicaule,Gene Pool,Tertiary,Solanum tuberosum
+1756,Solanaceae,Juss.  nom. cons.,Solanum,malmeanum,Bitter,,,,,,Solanum malmeanum,Gene Pool,Tertiary,Solanum tuberosum
+1757,Solanaceae,Juss.  nom. cons.,Solanum,minutifoliolum,Correll,,,,,,Solanum minutifoliolum,Gene Pool,Tertiary,Solanum tuberosum
+1758,Solanaceae,Juss.  nom. cons.,Solanum,mochiquense,Ochoa,,,,,,Solanum mochiquense,Gene Pool,Tertiary,Solanum tuberosum
+1759,Solanaceae,Juss.  nom. cons.,Solanum,palustre,Poepp. ex Schltdl.,,,,,,Solanum palustre,Gene Pool,Tertiary,Solanum tuberosum
+1760,Solanaceae,Juss.  nom. cons.,Solanum,pinnatisectum,Dunal,,,,,,Solanum pinnatisectum,Gene Pool,Tertiary,Solanum tuberosum
+1761,Solanaceae,Juss.  nom. cons.,Solanum,raquialatum,Ochoa,,,,,,Solanum raquialatum,Gene Pool,Tertiary,Solanum tuberosum
+1762,Solanaceae,Juss.  nom. cons.,Solanum,scabrifolium,Ochoa,,,,,,Solanum scabrifolium,Gene Pool,Tertiary,Solanum tuberosum
+1763,Solanaceae,Juss.  nom. cons.,Solanum,simplicissimum,Ochoa,,,,,,Solanum simplicissimum,Gene Pool,Tertiary,Solanum tuberosum
+1764,Solanaceae,Juss.  nom. cons.,Solanum,stenophyllidium,Bitter,,,,,,Solanum stenophyllidium,Gene Pool,Tertiary,Solanum tuberosum
+1765,Solanaceae,Juss.  nom. cons.,Solanum,tarnii,Hawkes & Hjert.,,,,,,Solanum tarnii,Gene Pool,Tertiary,Solanum tuberosum
+1766,Solanaceae,Juss.  nom. cons.,Solanum,trifidum,Correll,,,,,,Solanum trifidum,Gene Pool,Tertiary,Solanum tuberosum
+1767,Solanaceae,Juss.  nom. cons.,Solanum,trinitense,Ochoa,,,,,,Solanum trinitense,Gene Pool,Tertiary,Solanum tuberosum
+1768,Solanaceae,Juss.  nom. cons.,Solanum,wittmackii,Bitter,,,,,,Solanum wittmackii,Gene Pool,Tertiary,Solanum tuberos

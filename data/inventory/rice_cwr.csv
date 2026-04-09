@@ -1,0 +1,29 @@
+﻿Id,Family,FamilyAuthor,Genus,Specie,SpecieAuthor,Subspecie,SubspecieAuthor,Variety,VarietyAuthor,CommonName,ScientificName,ConceptType,ConceptLevel,MainTaxon,
+356,Poaceae,Barnhart  nom. cons.,Oryza,barthii,A. Chev.,,,,,Wild rice,Oryza barthii,Gene Pool,Primary,Oryza sativa
+6540,Poaceae,,Oryza,glaberrima,Steud.,,,,,,Oryza glaberrima,Gene Pool,Primary,Oryza sativa
+357,Poaceae,Barnhart  nom. cons.,Oryza,glumipatula,Steud.,,,,,,Oryza glumipatula,Gene Pool,Primary,Oryza sativa
+358,Poaceae,Barnhart  nom. cons.,Oryza,longistaminata,A. Chev. & Roehr.,,,,,Red rice,Oryza longistaminata,Gene Pool,Primary,Oryza sativa
+359,Poaceae,Barnhart  nom. cons.,Oryza,meridionalis,Ng,,,,,,Oryza meridionalis,Gene Pool,Primary,Oryza sativa
+360,Poaceae,Barnhart  nom. cons.,Oryza,nivara,S. D. Sharma & Shastry,,,,,,Oryza nivara,Gene Pool,Primary,Oryza sativa
+361,Poaceae,Barnhart  nom. cons.,Oryza,rufipogon,Griff.,,,,,Red rice,Oryza rufipogon,Gene Pool,Primary,Oryza sativa
+362,Poaceae,Barnhart  nom. cons.,Oryza,alta,Swallen,,,,,,Oryza alta,Gene Pool,Secondary,Oryza sativa
+363,Poaceae,Barnhart  nom. cons.,Oryza,australiensis,Domin,,,,,,Oryza australiensis,Gene Pool,Secondary,Oryza sativa
+364,Poaceae,Barnhart  nom. cons.,Oryza,brachyantha,A. Chev. & Roehr.,,,,,,Oryza brachyantha,Gene Pool,Secondary,Oryza sativa
+365,Poaceae,Barnhart  nom. cons.,Oryza,eichingeri,Peter,,,,,,Oryza eichingeri,Gene Pool,Secondary,Oryza sativa
+366,Poaceae,Barnhart  nom. cons.,Oryza,grandiglumis,(Doll) Prodoehl,,,,,,Oryza grandiglumis,Gene Pool,Secondary,Oryza sativa
+367,Poaceae,Barnhart  nom. cons.,Oryza,latifolia,Desv.,,,,,,Oryza latifolia,Gene Pool,Secondary,Oryza sativa
+368,Poaceae,Barnhart  nom. cons.,Oryza,malampuzhaensis,Krishnasw. & Chandrasekh.,,,,,,Oryza malampuzhaensis,Gene Pool,Secondary,Oryza sativa
+369,Poaceae,Barnhart  nom. cons.,Oryza,minuta,J. Presl,,,,,,Oryza minuta,Gene Pool,Secondary,Oryza sativa
+370,Poaceae,Barnhart  nom. cons.,Oryza,officinalis,Wall. ex G. Watt,,,,,,Oryza officinalis,Gene Pool,Secondary,Oryza sativa
+371,Poaceae,Barnhart  nom. cons.,Oryza,punctata,Kotschy ex Steud.,,,,,Red rice,Oryza punctata,Gene Pool,Secondary,Oryza sativa
+372,Poaceae,Barnhart  nom. cons.,Oryza,rhizomatis,D. A. Vaughan,,,,,,Oryza rhizomatis,Gene Pool,Secondary,Oryza sativa
+373,Poaceae,Barnhart  nom. cons.,Oryza,schweinfurthiana,Prodoehl,,,,,,Oryza schweinfurthiana,Gene Pool,Secondary,Oryza sativa
+4284,Poaceae,Barnhart  nom. cons.,Oryza,coarctata,Roxb.,,,,,,Oryza coarctata,Gene Pool,Tertiary,Oryza sativa
+374,Poaceae,Barnhart  nom. cons.,Oryza,longiglumis,Jansen,,,,,,Oryza longiglumis,Gene Pool,Tertiary,Oryza sativa
+377,Poaceae,Barnhart  nom. cons.,Oryza,meyeriana,(Zoll. & Moritzi) Baill.,,,,,,Oryza meyeriana,Gene Pool,Tertiary,Oryza sativa
+376,Poaceae,Barnhart  nom. cons.,Oryza,meyeriana,(Zoll. & Moritzi) Baill.,,,granulata,(Nees & Arn. ex G. Watt) Duist.,Jungle rice,Oryza meyeriana var. granulata,Gene Pool,Tertiary,Oryza sativa
+375,Poaceae,Barnhart  nom. cons.,Oryza,meyeriana,(Zoll. & Moritzi) Baill.,,,inandamanica,(J. L. Ellis) Veldkamp,,Oryza meyeriana var. inandamanica,Gene Pool,Tertiary,Oryza sativa
+378,Poaceae,Barnhart  nom. cons.,Oryza,meyeriana,(Zoll. & Moritzi) Baill.,,,meyeriana,(Zoll. & Moritzi) Baill.,,Oryza meyeriana var. meyeriana,Gene Pool,Tertiary,Oryza sativa
+379,Poaceae,Barnhart  nom. cons.,Oryza,neocaledonica,Morat,,,,,,Oryza neocaledonica,Gene Pool,Tertiary,Oryza sativa
+380,Poaceae,Barnhart  nom. cons.,Oryza,ridleyi,Hook. f.,,,,,,Oryza ridleyi,Gene Pool,Tertiary,Oryza sativa
+381,Poaceae,Barnhart  nom. cons.,Oryza,schlechteri,Pilg.,,,,,,Oryza schlechteri,Gene Pool,Tertiary,Oryza sati
