@@ -3,6 +3,10 @@ data/GBIF/CWR/0284616-220831081235567.csv
 data/WorldClim
 data/soilgrids
 
+# MaxEnt output
+out/maxent
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
