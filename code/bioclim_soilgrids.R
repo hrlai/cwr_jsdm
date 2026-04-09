@@ -1,5 +1,5 @@
 # Retrieve data from WorldClim and SoilGrids
-
+library(terra)
 library(geodata)
 library(raster)
 library(gdalUtils)
@@ -31,26 +31,32 @@ vrt_layer <- paste0(variable, "/", layer, '.vrt')
 filename <- paste0("data/soilgrids/", layer, ".tif")
 
 # download, project, resample and then store locally as geoTIFF
+overwrite <- FALSE
 for (i in seq_along(vrt_layer)) {
-    # solution from 
-    # https://gis.stackexchange.com/a/361350
-    # will error if TIFF exists, which is what we want
-    gdalwarp(
-        t_srs = crs(bioclim),
-        multi = TRUE,
-        wm = 200,
-        co = c("BIGTIFF=YES", "COMPRESS=DEFLATE", "TILED=TRUE"),
-        tr = res(bioclim),  # output resolution (same as bioclim)
-        verbose = T,
-        vrt_layer[i],  # Input VRT
-        filename[i]    # Output TIFF
-    ) 
+  # solution from 
+  # https://gis.stackexchange.com/a/361350
+  # will error if TIFF exists, which is what we want
+  gdalwarp(
+    vrt_layer[i],  # Input VRT
+    filename[i],    # Output TIFF        
+    t_srs = crs(bioclim, proj = TRUE),
+    multi = TRUE,
+    r = "average",
+    wm = 200,
+    co = c("BIGTIFF=YES", "COMPRESS=DEFLATE", "TILED=TRUE"),
+    te = as.vector(ext(bioclim))[c(1,3,2,4)],
+    tr = res(bioclim),  # output resolution (same as bioclim)
+    verbose = T,
+    overwrite = overwrite
+  ) 
 }
 
 # read the rasters
 soilgrids_files <- list.files("data/soilgrids", full.names = TRUE)
 soilgrids_rast <- lapply(soilgrids_files, rast)
 names(soilgrids_rast) <- lapply(soilgrids_rast, names)
+soilgrids_rast <- rast(soilgrids_rast)
 
-plot(soilgrids_rast$`bdod_0-5cm_mean`)
-plot(soilgrids_rast$`cec_0-5cm_mean`)
+# plot(soilgrids_rast)
+
+bioclim_soilgrids <- c(bioclim, soilgrids_rast)
